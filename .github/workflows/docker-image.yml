@@ -31,4 +31,4 @@ jobs:
 
     - name: Push Image Build
       run: |
-        docker image push -t eliasrl00/graphql:0.0.2
+        docker image push eliasrl00/graphql:0.0.2
